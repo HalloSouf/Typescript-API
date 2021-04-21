@@ -1,2 +1,2 @@
-# Type-API
+# Typescript-API
 NodeJS API template written with Typescript
